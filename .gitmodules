@@ -1,0 +1,3 @@
+[submodule "chocopuyo"]
+	path = chocopuyo
+	url = https://github.com/myouju/chocopuyo
